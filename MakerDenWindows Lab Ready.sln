@@ -17,6 +17,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "libs", "libs", "{4109B642-8
 		libs\Glovebox.IoT.pdb = libs\Glovebox.IoT.pdb
 		libs\M2Mqtt.dll = libs\M2Mqtt.dll
 		libs\M2Mqtt.pdb = libs\M2Mqtt.pdb
+		libs\reset.bat = libs\reset.bat
 	EndProjectSection
 EndProject
 Global
@@ -48,6 +49,8 @@ Global
 		{3317D008-FE1C-4E62-9732-C0A591FB0CD5}.Release|x86.ActiveCfg = Release|x86
 		{3317D008-FE1C-4E62-9732-C0A591FB0CD5}.Release|x86.Build.0 = Release|x86
 		{A2BDD3C2-8AEF-4176-A5B5-FA347C4C8C33}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{A2BDD3C2-8AEF-4176-A5B5-FA347C4C8C33}.Debug|Any CPU.Build.0 = Debug|x86
+		{A2BDD3C2-8AEF-4176-A5B5-FA347C4C8C33}.Debug|Any CPU.Deploy.0 = Debug|x86
 		{A2BDD3C2-8AEF-4176-A5B5-FA347C4C8C33}.Debug|ARM.ActiveCfg = Debug|ARM
 		{A2BDD3C2-8AEF-4176-A5B5-FA347C4C8C33}.Debug|ARM.Build.0 = Debug|ARM
 		{A2BDD3C2-8AEF-4176-A5B5-FA347C4C8C33}.Debug|ARM.Deploy.0 = Debug|ARM
