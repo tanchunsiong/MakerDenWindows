@@ -7,6 +7,18 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakerDen", "MakerDen\MakerD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Launcher-Background", "Launcher Background\Launcher-Background.csproj", "{A2BDD3C2-8AEF-4176-A5B5-FA347C4C8C33}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "libs", "libs", "{4109B642-8093-47F8-B74C-C81B7C30C0D2}"
+	ProjectSection(SolutionItems) = preProject
+		libs\Adafruit.dll = libs\Adafruit.dll
+		libs\Adafruit.pdb = libs\Adafruit.pdb
+		libs\Glovebox.IO.Components.dll = libs\Glovebox.IO.Components.dll
+		libs\Glovebox.IO.Components.pdb = libs\Glovebox.IO.Components.pdb
+		libs\Glovebox.IoT.dll = libs\Glovebox.IoT.dll
+		libs\Glovebox.IoT.pdb = libs\Glovebox.IoT.pdb
+		libs\M2Mqtt.dll = libs\M2Mqtt.dll
+		libs\M2Mqtt.pdb = libs\M2Mqtt.pdb
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
