@@ -138,12 +138,6 @@
       <HintPath>..\libs\M2Mqtt.dll</HintPath>
     </Reference>
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\MakerDen\MakerDen.csproj">
-      <Project>{3317d008-fe1c-4e62-9732-c0a591fb0cd5}</Project>
-      <Name>MakerDen</Name>
-    </ProjectReference>
-  </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>
   </PropertyGroup>
