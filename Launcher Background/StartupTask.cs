@@ -10,7 +10,7 @@ namespace Launcher_Background
     public sealed class StartupTask : IBackgroundTask {
         BackgroundTaskDeferral _deferral;
         MakerDen.Experiments md = new MakerDen.Experiments();
-
+     
         public void Run(IBackgroundTaskInstance taskInstance) {
             _deferral = taskInstance.GetDeferral();
 
